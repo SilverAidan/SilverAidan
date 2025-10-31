@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Aidan,
 i code sometimes.
-im 17 years old
+im 18 years old
 im a student
 
 _All the projects here are hobby projects or for school._
