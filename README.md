@@ -12,4 +12,4 @@ Languages I know:
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp.svg"></code>
+<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
